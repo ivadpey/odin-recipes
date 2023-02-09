@@ -1,0 +1,36 @@
+#header {
+    font-size: 60px;
+    font-family: Futura, sans-serif;
+    text-align: center;
+    padding: 10px;
+    color: #904b36;
+}
+
+.cinnamon-img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 10%;
+}
+
+.cinnamon-h2 {
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+    padding: 20px;
+    background-color: antiquewhite;
+    font-weight: 800;
+}
+
+.cinnamon-recipe {
+    text-align: center;
+    font-size: 18px;
+    font-family: serif;
+}
+
+.cinnamon-ingredients {
+    font-size: 20px;
+    font-family: serif;
+    text-align: center;
+    font-weight: 700;
+}
