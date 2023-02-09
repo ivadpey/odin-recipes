@@ -12,17 +12,19 @@ body {
   }
   
   h2 {
-    font-size: 25px;
+    color: #D3A79B;
+    font-size: 18px;
     padding: 10px;
     text-align: center;
     font-family: Futura, sans-serif;
   }
 
+  .buttons {
+    background-color: #D3A79B;
+    color: #904b36;
+    font-size: 25px;
+  }
 
-  .list {
-    background-color: blanchedalmond;
-    padding: 60px;
-    text-align: center;
-    font-size: 22px;
-    border-style: groove;
+  .button-container {
+    text-align: center; 
   }
