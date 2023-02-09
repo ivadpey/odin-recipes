@@ -21,10 +21,24 @@ body {
 
   .buttons {
     background-color: #D3A79B;
+    border: none;
     color: #904b36;
     font-size: 25px;
+    border-radius: 20%;
   }
 
   .button-container {
     text-align: center; 
+  }
+
+  .cinnamon {
+    padding: 10px;
+  }
+
+  .coffee {
+    padding: 10px;
+  }
+
+  .muffins {
+    padding: 10px;
   }
