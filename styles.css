@@ -4,15 +4,22 @@ body {
 
 .header {
     font-family: Futura, sans-serif;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     color: #904b36;
     font-size: 80px;
     text-shadow: 2px 2px #fff011;
   }
   
+  hr.rounded {
+    border-top: 10px;
+    border-radius: 5px;
+    color: #904b;
+    padding: 10px;
+  }
+
   h2 {
-    color: #D3A79B;
+    color: #b79987;
     font-size: 18px;
     padding: 10px;
     text-align: center;
@@ -24,7 +31,9 @@ body {
     border: none;
     color: #904b36;
     font-size: 25px;
-    border-radius: 20%;
+    border-radius: 12px;
+    text-decoration: none;
+    margin: 30px;
   }
 
   .button-container {
@@ -32,15 +41,19 @@ body {
   }
 
   .cinnamon {
-    padding: 10px;
+    padding: 20px;
+    text-decoration: none;
+    font-family: Futura, sans-serif;
   }
 
   .coffee {
-    padding: 10px;
+    padding: 20px;
+    font-family: Futura, sans-serif;
   }
 
   .muffins {
-    padding: 10px;
+    padding: 20px;
+    font-family: Futura, sans-serif;
   }
 
  
