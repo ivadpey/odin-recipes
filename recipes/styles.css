@@ -6,6 +6,10 @@
     color: #904b36;
 }
 
+.flex-container {
+    display: flex;
+}
+
 .cinnamon-img {
     margin-left: auto;
     margin-right: auto;
